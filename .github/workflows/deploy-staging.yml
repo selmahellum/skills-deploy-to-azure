@@ -1,5 +1,5 @@
 name: Deploy to staging
-
+#kjør pr
 on:
   pull_request:
     types: [labeled]
